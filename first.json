@@ -1,0 +1,50 @@
+  {
+    "items": [
+      {
+        "id": 0,
+        "Nume": "Scaun",
+        "Pret": "100",
+        "description": "Description 1",
+        "Descriere2": "Blandit litora non nulla sodales tortor et ultricies ornare sociosqu scelerisque, vulputate cubilia ligula interdum inceptos congue enim quam venenatis auctor, tristique fermentum efficitur dignissim sem nascetur gravida lectus mi. Mollis varius aliquet facilisi conubia at potenti convallis dolor, leo mattis euismod ante maecenas ornare ridiculus fermentum, pellentesque neque luctus ad natoque tristique eget. Efficitur montes faucibus nunc blandit rutrum proin arcu tortor lectus condimentum, pulvinar vivamus senectus mollis ac varius libero tempor dis, vehicula sem dolor sociosqu class inceptos tristique quis suspendisse. Iaculis nibh curae torquent aliquam scelerisque gravida ante est sem, mattis suscipit proin habitasse id neque elementum rhoncus, sagittis molestie porta in blandit netus ac justo. Dui eget placerat montes etiam, rhoncus odio enim sed est, ornare magnis potenti. Gravida velit maecenas fermentum in convallis mi rhoncus tristique sit phasellus sollicitudin bibendum finibus ridiculus tellus vestibulum, nibh urna aliquet nunc curabitur dis duis neque conubia feugiat quis lectus vel nullam natoque. Inceptos platea litora pharetra aptent duis odio, dis auctor laoreet mus mollis primis nisl, metus torquent pulvinar penatibus diam.",
+        "images_path": "assets/image.png",
+        "Numes": "X"
+      },
+      {
+        "id": 1,
+        "Nume": "Masa",
+        "Pret": "200",
+        "description": "Description 2",
+        "Descriere2": "A ex montes nibh vitae diam ipsum bibendum nam fames phasellus hendrerit suscipit, felis quisque augue litora cras tincidunt facilisis eros potenti mi himenaeos. Inceptos luctus velit scelerisque a curabitur nec lobortis aptent iaculis, netus elementum habitasse sollicitudin nostra suscipit phasellus ac sodales, ut dictumst fusce habitant vivamus odio eu eros. In massa viverra nec sodales auctor dictumst parturient tincidunt nunc consectetur, ridiculus tempor ultrices adipiscing libero blandit eget fames malesuada, cras nam a ullamcorper senectus elit non ultricies habitasse. Duis nec arcu morbi vel ipsum maximus blandit egestas facilisi suspendisse, interdum euismod tellus molestie class dui inceptos in faucibus, mattis litora elit consequat commodo iaculis sit ligula ad. Adipiscing ullamcorper vivamus aliquet dis cubilia duis himenaeos, sem eget ultricies nascetur habitant auctor dignissim suspendisse, molestie ornare quisque velit blandit mollis. Vulputate quam quisque volutpat scelerisque non tempor est, odio ad suspendisse in tempus mattis venenatis, aenean vel eu fermentum egestas litora. Varius eget vulputate bibendum inceptos metus nascetur phasellus nostra dapibus cursus facilisis integer mattis, vitae interdum tincidunt aptent aenean velit magnis ridiculus pharetra quis condimentum tempus.",
+        "images_path":"assets/sss.jpg",
+        "Numes": "Y"
+      },
+      {
+        "id": 2,
+        "Nume": "Lingura",
+        "Pret": "300",
+        "description": "Description 3",
+        "Descriere2": "Lorem ipsum dolor sit amet consectetur adipiscing, elit egestas posuere convallis nullam risus quisque, vulputate quam viverra arcu auctor. Nulla suscipit neque odio vulputate netus aliquam vivamus consectetur, posuere elementum dolor cras varius tincidunt luctus hendrerit nunc, amet eros donec commodo magna accumsan rhoncus. Et litora lobortis torquent mus etiam accumsan gravida lacus, porta curae primis ultrices adipiscing eu ac scelerisque, aptent cursus malesuada elit dui interdum magna. Facilisi malesuada himenaeos dignissim facilisis donec sapien metus, viverra rhoncus venenatis etiam feugiat faucibus, congue libero magnis penatibus ornare fringilla. Erat iaculis curae elit porta litora rutrum magnis magna mattis vehicula, eu imperdiet lobortis nam quisque aptent sodales posuere arcu commodo, metus ac blandit consectetur tellus suspendisse nascetur sagittis ornare. Potenti vehicula sit pulvinar sociosqu dapibus cras aliquet feugiat metus mus nec eleifend dolor blandit suspendisse, dis purus eros lorem massa tincidunt enim et id proin sed vivamus consectetur euismod. Ex massa iaculis aliquam placerat lobortis accumsan morbi, eu mus felis natoque vulputate magnis lectus netus, class habitasse tristique cubilia vestibulum ornare. Etiam congue ac cras habitant feugiat, non pretium rhoncus viverra, amet efficitur fringilla lacus.",
+        "images_path":"assets/casti.jpg",
+        "Numes": "W"
+      },
+      {
+        "id": 3,
+        "Nume": "Cross",
+        "Pret": "400",
+        "description": "Description 4",
+        "Descriere2":"Aptent auctor odio tempor dis dapibus nibh torquent accumsan eu tristique praesent aliquet, ipsum suscipit fames ridiculus mauris quam potenti nam scelerisque sit. Primis nulla eleifend posuere viverra inceptos curae augue erat id mattis condimentum litora pulvinar, malesuada interdum vel per aenean felis risus pharetra consequat lacus ad ac. Vulputate eleifend tempor dolor feugiat donec aptent primis, volutpat himenaeos eros est aenean magna torquent faucibus, maximus quam sagittis rhoncus pretium senectus. Auctor tellus proin porta amet dapibus massa enim penatibus, a lobortis tempus natoque quis ad adipiscing, lorem odio orci faucibus et turpis interdum. Augue nisl curabitur netus adipiscing parturient consectetur taciti eros molestie, amet nullam suscipit potenti himenaeos felis facilisi gravida risus, finibus et nunc pellentesque fames habitant ad sapien. Gravida nibh pulvinar inceptos interdum facilisi per elit, luctus pellentesque magnis penatibus sagittis natoque urna, quisque arcu aptent curae nunc quis.",
+        "images_path":"assets/cross.jpg",
+        "Numes": "X"
+      },
+      {
+        "id": 4,
+        "Nume": "maiou",
+        "Pret": "500",
+        "description": "Description 5",
+        "Descriere2": "Quam nunc maximus sed curae nullam ligula accumsan id torquent, ipsum purus netus justo integer ornare suscipit. Arcu magnis auctor vel sit eu facilisis taciti pulvinar, id penatibus hendrerit vitae dapibus condimentum mi, mus primis feugiat ullamcorper accumsan nibh est. Convallis volutpat malesuada semper nullam consequat mus blandit ipsum curabitur netus, hendrerit eget torquent inceptos etiam consectetur rhoncus praesent himenaeos, iaculis condimentum in vestibulum per justo odio eleifend augue. Volutpat malesuada gravida vivamus diam faucibus eu, maecenas adipiscing tempor dolor parturient justo lobortis, pharetra platea leo sem quisque. Feugiat habitant fermentum taciti sit luctus ultricies duis, semper condimentum class ipsum ad maecenas, iaculis vestibulum per nostra donec viverra.",
+        "images_path":"assets/maiou.png",
+        "Numes": "C",
+        "Color": "Black"
+      }
+    ]
+  }
